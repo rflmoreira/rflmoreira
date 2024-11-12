@@ -10,7 +10,7 @@
 <div align="center">
  <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-   👨‍💻 Rafael Moreira | 💻 Full Stack Dev | Brasil <img width="25" height="25" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-brazil-flag-countrys-flags-justicon-lineal-color-justicon.png" alt="bandeira do brasil"/> 
+   Rafael Moreira | 💻 Full Stack Dev | Brasil <img width="25" height="25" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-brazil-flag-countrys-flags-justicon-lineal-color-justicon.png" alt="bandeira do brasil"/> 
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  </h3>
 </div>
